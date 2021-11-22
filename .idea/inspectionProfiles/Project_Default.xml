@@ -1,0 +1,34 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="HtmlUnknownAttribute" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="1">
+            <item index="0" class="java.lang.String" itemvalue="css" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="frst_project.frst_app.admin.frst_app" />
+          <option value="learning_templates.learning_templates.urls.basic_app" />
+          <option value="learning_templates.basic_app.urls.*" />
+          <option value="django_level_five.learning_users.basic_app.forms.basic_app" />
+          <option value="django_level_five.learning_users.basic_app.urls.basic_app" />
+          <option value="django_level_five.learning_users.basic_app.views.basic_app" />
+          <option value="blog_project.mysite.blog.urls.blog" />
+          <option value="blog_project.mysite.blog.views.blog" />
+          <option value="blog_project.mysite.blog.views.timezone" />
+          <option value="blog_project.mysite.blog.admin.blog" />
+          <option value="blog_project.mysite.blog.forms.blog" />
+          <option value="django.contrib.auth.views.logout" />
+          <option value="django.contrib.auth.views.login" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
